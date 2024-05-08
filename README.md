@@ -6,7 +6,7 @@
 
 🤖 I'm particularly interested in diving deeper into Machine Learning and Deep Learning for AI development.
 
-🔍 I'm open to any job or colaboration opportunities in the software development field to gain new knowledge and experience!
+🔍 I'm open to any colaboration opportunities in the software development field to gain new knowledge and experience!
 
 🔗 Here's my latest Django project: [Izverg's](https://izverg-70932673e55f.herokuapp.com/)
 
