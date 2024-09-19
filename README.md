@@ -8,6 +8,6 @@
 
 🔍 I'm open to any colaboration opportunities in the software development field to gain new knowledge and experience!
 
-🔗 Here's my latest Django project: [Izverg's](https://izverg-70932673e55f.herokuapp.com/)
+🔗 Here's my latest Django project: [Izverg's](https://izverg-70932673e55f.herokuapp.com/) (Currently stopped from production)
 
 📂 You can contact me at: [Instagram]-https://www.instagram.com/_shoylekov_/ , [Facebook]-https://www.facebook.com/profile.php?id=100004939728122
