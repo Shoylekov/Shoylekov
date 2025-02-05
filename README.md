@@ -1,6 +1,7 @@
 <h1>Hey, I'm Boril</h1>
 👋 I'm a Software Developer
 
+
 🎓 I graduated from the Professional Technical High School of Varna and am currently studying at SoftUni. I enjoy delving into various programming languages, libraries, and frameworks.
 
 🤖 I'm particularly interested in diving deeper into Machine Learning and Deep Learning for AI development.
