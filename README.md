@@ -1,5 +1,5 @@
 <h1>Hey, I'm Boril</h1>
-<p>I'm a Software Developer</p>
+👋 I'm a Software Developer
 
 🎓 I graduated from the Professional Technical High School of Varna and am currently studying at SoftUni. I enjoy delving into various programming languages, libraries, and frameworks.
 
